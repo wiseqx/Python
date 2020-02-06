@@ -111,13 +111,22 @@ We use Jupyter Notebook to test task 3 here.
 
 In order to test task 3, you now start entering the Python code in the first line. To execute this single line of Python code, press "shift" plus "enter" simultaneously in your keyboard or just click on the "run" button.
 
-![](/images/i1.png)
-
 Now input a string “bananas” as our first object of this class.
 
+![](/images/i2.png)
 
-###### 1.1 Is new string equal to string ‘tester’:
-‘tester’ is what we input as “bananas” above, now it is time to put another object for comparing with the original string, and see if there are equal.  This step if for testing "\__eq__" method.
+![](/images/i1.png)
+
+![](/images/i3.png)
+
+![](/images/i4.png)
+
+![](/images/i5.png)
+
+![](/images/i6.png)
+
+
+
 
 
 

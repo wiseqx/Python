@@ -7,3 +7,4 @@ The datasets are:
 * S1(data_s1_ass3.csv): contains 4600 records
 * S2(data_s1_ass3.xml): contains 430 records
 
+For more details, please view the file "Data Integration and Reshaping.ipynb".

@@ -60,9 +60,9 @@ into individual sentences. The end of each sentence should be denoted by either 
  way.
  
  ## How to run?
-### Running Python using Jupyter Notebook:
+### Running Python using the Jupyter Notebook:
 
-####File 1:
+#### File 1:
 
 In order to test python_file1, we can start entering the Python code: “%run python_file1” in the first line. To execute this single line of Python code, press “shift” and “enter” in your keyboard or just click on the “run” button:
 ![](/images/i_1.png)
@@ -78,7 +78,7 @@ The output shows that a text from input but just 5 total number delimiters. So, 
 
 ---
 
-####File 2:
+#### File 2:
 Now we test python_file2. Enter the code “%run python_file2” in a new cell and press “enter” and “shift” simultaneously in keyboard. Then an input instruction appears.
 
 ![](/images/i_3.png)
@@ -93,7 +93,7 @@ We can see the output in the figure above. Sentences have been segmented and eac
 
 ---
 
-####File 3:
+#### File 3:
 Now we test python_file3 by entering the code “%run python_file3” in a new cell and run the program. The figure should be:
 ![](/images/i_5.png)
 Now we input Sample input 3 below, then press “enter” in the keyboard to see the result.

@@ -1,6 +1,6 @@
 # Data Analysis Algorithms and Machine Learning
 
-Those Python files are written without import any library
+## Those Python files are written without import any Python libraries
 
 File1: KNN
 

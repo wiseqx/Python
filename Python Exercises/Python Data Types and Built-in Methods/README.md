@@ -49,7 +49,7 @@ into individual sentences. The end of each sentence should be denoted by either 
  text (or the paragraph) into sentences and words, the program is extended to perform 
  some simple analysis on the input text.
  
- Python_file3 perform the following analysis:
+ Python_file3 program performs the following analysis:
  * Count the total number of words and the total number of characters
  * Count the total number of unique words (ignoring the case of letters)
  * Count the number of words that begin with an uppercasee letter (ie.A-Z)

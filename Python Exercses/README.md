@@ -62,9 +62,10 @@ into individual sentences. The end of each sentence should be denoted by either 
  ## How to run?
 ### 1.Running Python using Jupyter Notebook:
 
-After Anaconda has been installed in computer, getting access to python interpreter is much easier. Launch the Jupyter notebook by running the command jupyter notebook at the prompt of a command-line terminal or from the Anaconda Launcher window. When you open the Anaconda Launcher window, click the “Launch” icon at the bottom of “Jupyter Notebook”.
+Task 1:
 
-Now you would see the dashboard:
+In order to test assignment_task1, you now start entering the Python code: “%run assignment_task1” in the first line. To execute this single line of Python code, press “shift” and “enter” in your keyboard or just click on the “run” button:
+
 
 
  

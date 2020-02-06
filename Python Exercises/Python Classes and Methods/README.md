@@ -113,9 +113,9 @@ In order to test task 3, you now start entering the Python code in the first lin
 
 Now input a string “bananas” as our first object of this class.
 
-![](/images/i2.png)
-
 ![](/images/i1.png)
+
+![](/images/i2.png)
 
 ![](/images/i3.png)
 
@@ -125,9 +125,9 @@ Now input a string “bananas” as our first object of this class.
 
 ![](/images/i6.png)
 
+![](/images/i7.png)
 
-
-
+![](/images/i8.png)
 
 
 

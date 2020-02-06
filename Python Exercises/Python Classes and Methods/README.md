@@ -107,7 +107,7 @@ test the implementation for each of the methods.
 We use Jupyter Notebook to test task 3 here.
 
 
-#### 1. Testing:
+#### Testing:
 
 In order to test task 3, you now start entering the Python code in the first line. To execute this single line of Python code, press "shift" plus "enter" simultaneously in your keyboard or just click on the "run" button.
 
@@ -117,11 +117,19 @@ Now input a string “bananas” as our first object of this class.
 
 ![](/images/i2.png)
 
+##### test Task1
+
 ![](/images/i15.png)
+
+##### Test addition
 
 ![](/images/i14.png)
 
+##### Test remove
+
 ![](/images/i16.png)
+
+##### Test sort
 
 ![](/images/i17.png)
 

@@ -1,10 +1,4 @@
-#FIT9133 assignment 1: task 3
-#Student name: Qixuan Wang
-#ID:28218078
-#start date: 21/03/2017
-#last modified date: 26/03/2017 
-
-#Mission:5 ayalysis on the input text.
+#Mission: ayalysis.
 
 #task 3 begin:
 #the following process is based on task1 and task 2. 

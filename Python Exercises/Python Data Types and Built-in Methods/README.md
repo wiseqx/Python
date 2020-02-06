@@ -60,25 +60,25 @@ into individual sentences. The end of each sentence should be denoted by either 
  way.
  
  ## How to run?
-### 1.Running Python using Jupyter Notebook:
+### Running Python using Jupyter Notebook:
 
-Task 1:
+####File 1:
 
-In order to test assignment_task1, we can start entering the Python code: “%run python_file1” in the first line. To execute this single line of Python code, press “shift” and “enter” in your keyboard or just click on the “run” button:
+In order to test python_file1, we can start entering the Python code: “%run python_file1” in the first line. To execute this single line of Python code, press “shift” and “enter” in your keyboard or just click on the “run” button:
 ![](/images/i_1.png)
 
-Now you see an input that require user to enter a line. We can test whether the program works or not by entering a text.
+Now you see an input that requires users to enter a line. We can test whether the program works or not by entering a text.
 
-Firstly, we test a long paragraph which the number of delimiters is over 5. Let's see what the output delimiters would look like. Now we input the Sample input and press “enter” in keyboard:
+Firstly, we test a long paragraph which the number of delimiters is more than 5. Let's see what the output delimiters would look like. Now we input the Sample input 1 and then press “enter” in keyboard:
 
-Sample input: In Newton's day the whole field of nature was practically lying fallow. No fundamental principles were known until the law of gravitation was discovered. This law was behind all the work of Copernicus, Kepler, and Galileo, and what they had done needed interpretation. It was quite natural that the most obvious and mechanical phenomena should first be reduced, and so the Principia was concerned with mechanical principles applied to astronomical problems. To us, who have grown up familiar with the principles and conceptions underlying them, all varieties of mechanical phenomena seem so obvious, that it is difficult for us to understand how any one could be obtuse to them; but the records of Newton's time, and immediately after this, show that they were not so easy of apprehension. It may be remembered that they were not adopted in France till long after Newton's day. In spite of what is thought to be reasonable, it really requires something more than complete demonstration to convince most of us of the truth of an idea, should the truth happen to be of a kind not familiar, or should it chance to be opposed to our more or less well-defined notions of what it is or ought to be.
+Sample input 1: In Newton's day the whole field of nature was practically lying fallow. No fundamental principles were known until the law of gravitation was discovered. This law was behind all the work of Copernicus, Kepler, and Galileo, and what they had done needed interpretation. It was quite natural that the most obvious and mechanical phenomena should first be reduced, and so the Principia was concerned with mechanical principles applied to astronomical problems. To us, who have grown up familiar with the principles and conceptions underlying them, all varieties of mechanical phenomena seem so obvious, that it is difficult for us to understand how any one could be obtuse to them; but the records of Newton's time, and immediately after this, show that they were not so easy of apprehension. It may be remembered that they were not adopted in France till long after Newton's day. In spite of what is thought to be reasonable, it really requires something more than complete demonstration to convince most of us of the truth of an idea, should the truth happen to be of a kind not familiar, or should it chance to be opposed to our more or less well-defined notions of what it is or ought to be.
  ![](/images/i_2.png)
 
 The output shows that a text from input but just 5 total number delimiters. So, the test is successful.
 
 ---
 
-
+####File 2:
 Now we test python_file2. Enter the code “%run python_file2” in a new cell and press “enter” and “shift” simultaneously in keyboard. Then an input instruction appears.
 
 ![](/images/i_3.png)
@@ -93,9 +93,10 @@ We can see the output in the figure above. Sentences have been segmented and eac
 
 ---
 
+####File 3:
 Now we test python_file3 by entering the code “%run python_file3” in a new cell and run the program. The figure should be:
 ![](/images/i_5.png)
-Now we enter Sample input 3 below, then press “enter” in the keyboard to see the output.
+Now we input Sample input 3 below, then press “enter” in the keyboard to see the result.
 
 Sample input 3: There appears to be a definite amount of matter in the visible universe, a definite number of molecules and atoms. How many molecules there are in a cubic inch of air under ordinary pressure has been determined, and is represented approximately by a huge number, something like a thousand million million millions. If one should feel that the number thus obtained was not very accurate, he might reflect that if there were ten times as many it would add but another cipher to a long line of similar ones and would not materially modify it. The point is that there is a definite, computable number. If one will then add to these the number of molecules in the more distant stars and nebule, of which there are visible about 100000000, making such estimate of their individual size as he thinks prudent, the sum of all will give the number of molecules in the visible universe.
 ![](/images/i_6.png)

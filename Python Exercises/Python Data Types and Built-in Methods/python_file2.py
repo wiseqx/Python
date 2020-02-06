@@ -1,9 +1,3 @@
-#FIT9133 assignment 1: task 2
-#Student name: Qixuan Wang
-#ID:28218078
-#start date: 21/03/2017
-#last modified date: 26/03/2017 
-
 #Mission: There are 2 missions in task2. One is required to segment the input text into individual sentences, the other is to count total number of tokenise which are segmented by sentences.
 
 #task 2 begin:

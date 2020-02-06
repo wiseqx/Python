@@ -1,9 +1,3 @@
-#FIT9133 assignment 1: task 1
-#Student name: Qixuan Wang
-#ID:28218078
-#start date: 21/03/2017
-#last modified date: 26/03/2017 
-
 #mission: Task 1 requires that user input whatever the number of sentences are but need to output total of 5 delimiters. Each delimiter either be stop at "." or "?" or "!". 
 
 #task 1 begin:

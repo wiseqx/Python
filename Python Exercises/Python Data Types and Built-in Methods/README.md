@@ -65,8 +65,8 @@ into individual sentences. The end of each sentence should be denoted by either 
 Task 1:
 
 In order to test assignment_task1, you now start entering the Python code: “%run assignment_task1” in the first line. To execute this single line of Python code, press “shift” and “enter” in your keyboard or just click on the “run” button:
+![](images/1.png)
 
-![](Python Exercises/Python Data Types and Built-in Methods/1.png)
 
  
  

@@ -1,5 +1,7 @@
 # Data Analysis Algorithms and Machine Learning
 
+Those Python files are written without import any library
+
 File1: KNN
 
 File2: L-fold Cross Validation
@@ -8,10 +10,8 @@ File3: Bootstrapping
 
 File4: Ridge Regression
 
-File5: Bias-Variance for Ridge Regression
+File5: Perceptron
 
-File6: Perceptron
+File6: Multiclass Perceptron
 
-File7: Multiclass Perceptron
-
-File8: Discriminative vs Generative Models
+File7: Discriminative vs Generative Models

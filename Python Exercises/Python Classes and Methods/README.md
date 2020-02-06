@@ -129,6 +129,22 @@ Now input a string “bananas” as our first object of this class.
 
 ![](/images/i8.png)
 
+![](/images/i9.png)
 
+![](/images/i10.png)
 
+![](/images/i11.png)
 
+![](/images/i12.png)
+
+![](/images/i13.png)
+
+![](/images/i14.png)
+
+![](/images/i15.png)
+
+![](/images/i16.png)
+
+![](/images/i17.png)
+
+![](/images/i20.jpg)
